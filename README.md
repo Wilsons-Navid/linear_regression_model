@@ -1,14 +1,13 @@
 # African Recession Predictor
+
+## Mission and Problem Statement
+
+Our mission is to provide accurate, AI-powered economic recession predictions for African countries using machine learning. This application addresses the critical need for early warning systems that can help governments, investors, and policymakers make informed decisions about economic policies and investments. The model analyzes key economic indicators to predict recession likelihood, enabling proactive measures to mitigate economic downturns.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c2ff86f4-867b-4258-92d5-ddb6875bf884" width="250" />
   <img src="https://github.com/user-attachments/assets/357fbe3b-fe11-45f6-b53d-a7f9ad4d95c5" width="250" />
   <img src="https://github.com/user-attachments/assets/393344c1-4f8b-4285-a018-66737f98c00d" width="250" />
 </p>
-
-
-## Mission and Problem Statement
-
-Our mission is to provide accurate, AI-powered economic recession predictions for African countries using machine learning. This application addresses the critical need for early warning systems that can help governments, investors, and policymakers make informed decisions about economic policies and investments. The model analyzes key economic indicators to predict recession likelihood, enabling proactive measures to mitigate economic downturns.
 
 ## High level Project Structure
 
