@@ -13,7 +13,7 @@ Our mission is to provide accurate, AI-powered economic recession predictions fo
 ## High level Project Structure
 
 
-<img width="1024" height="1536" alt="ChatGPT Image Jul 24, 2025, 06_05_19 AM" src="https://github.com/user-attachments/assets/8a9da730-738e-4488-8c69-e9afddaa3316" />
+<img width="400" height="600" alt="project-structure" src="https://github.com/user-attachments/assets/8a9da730-738e-4488-8c69-e9afddaa3316" />
 
 
 ## Key Features
