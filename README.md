@@ -22,6 +22,16 @@ Our mobile app allows the user to predict recession possibility in any  african 
 -- To  access the swagger ui, use '/swagger' instead of '/docs'. https://linear-regression-api-0sml.onrender.com/swagger will lead you to the swagger ui where you can access the predict and other endpoints!
 
 ## Running the Application
-1- Clone the repository: git clone https://github.com/Wilsons-Navid/linear_regression_model/
-2- Navigate to the flutter directory: cd FlutterApp/
+1- Clone the repository: git clone https://github.com/Wilsons-Navid/linear_regression_model/ 
+
+
+2- Navigate to the flutter directory: cd FlutterApp/recession_prediction 
+
+3- Install required dependencies: ``Flutter pub get``  
+
+4- Build and Run the flutter app on your desired emulator or physical device: ``Flutter run```
+
+5- Finally, click the predict navigation tab in the mobile app, it will will take you to the predict page where you can now input your values to predict recession risk!
+
+
 
