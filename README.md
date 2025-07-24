@@ -20,8 +20,16 @@ linear_regression_model/
 │   │   │   ├── main.dart
 │   │   ├── pubspec.yaml
 │   └── README.md
+
 ```
+<img width="1024" height="1536" alt="ChatGPT Image Jul 24, 2025, 06_05_19 AM" src="https://github.com/user-attachments/assets/8a9da730-738e-4488-8c69-e9afddaa3316" />
 
-## Features
 
-### 🤖 AI-
+## Key Features
+
+### Recession Risk Prediction:
+Our mobile app allows yout to predict recession possibility in any  african economies by using fatcors such as population, Employment, and human capital. It also gives possible expart led strategies to remediate the situation based on  the severity of the result of the prediction.
+
+## API endpoints: 
+
+
