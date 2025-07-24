@@ -13,7 +13,7 @@ Our mission is to provide accurate, AI-powered economic recession predictions fo
 ## Key Features
 
 ### Recession Risk Prediction:
-Our mobile app allows yout to predict recession possibility in any  african economies by using fatcors such as population, Employment, and human capital. It also gives possible expart led strategies to remediate the situation based on  the severity of the result of the prediction.
+Our mobile app allows the user to predict recession possibility in any  african economie by using factors such as population, Employment, and human capital. It also gives possible expert led strategies to remediate the situation based on  the severity of the result of the prediction.
 
 ## API endpoints: 
 ### Deployed-endpoints: 
