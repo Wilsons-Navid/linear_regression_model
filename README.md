@@ -17,9 +17,9 @@ Our mobile app allows the user to predict recession possibility in any  african 
 
 ## API endpoints: 
 ### Deployed-endpoints: 
--- https://linear-regression-api-0sml.onrender.com
+--The API endpoint deployed on render:  https://linear-regression-api-0sml.onrender.com
 ### Accessing the swagger UI
--- To  access the swagger ui, use '/swagger' instead of '/docs'. https://linear-regression-api-0sml.onrender.com/swagger will lead you to the swagger ui where you can access the predict and other endpoints!
+-- To  access the swagger UI, use '/swagger' instead of '/docs'. https://linear-regression-api-0sml.onrender.com/swagger will lead you to the swagger UI where you can access the predict and other endpoints!
 
 ## Running the Application
 1- Clone the repository: ``git clone https://github.com/Wilsons-Navid/linear_regression_model/`` 
