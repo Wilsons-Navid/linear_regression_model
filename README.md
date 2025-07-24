@@ -1,4 +1,9 @@
 # African Recession Predictor
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2ff86f4-867b-4258-92d5-ddb6875bf884" width="250" style="margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/357fbe3b-fe11-45f6-b53d-a7f9ad4d95c5" width="250" style="margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/393344c1-4f8b-4285-a018-66737f98c00d" width="250" />
+</p>
 
 ## Mission and Problem Statement
 
