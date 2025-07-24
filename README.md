@@ -1,4 +1,6 @@
 # African Recession Predictor
+![temp_Screenshot_20250724-120708](https://github.com/user-attachments/assets/369e433a-d9e8-4a16-bdc2-3b1311503003)
+
 
 ## Mission and Problem Statement
 
