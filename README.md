@@ -21,9 +21,8 @@ Our mission is to provide accurate, AI-powered economic recession predictions fo
 ### Recession Risk Prediction:
 Our mobile app allows the user to predict recession possibility in any  african economie by using factors such as population, Employment, and human capital. It also gives possible expert led strategies to remediate the situation based on  the severity of the result of the prediction.
 
-## API endpoints: 
-### Deployed-endpoints: 
---The API endpoint deployed on render:  https://linear-regression-api-0sml.onrender.com
+## API endpoints:  
+--The API endpoints were deployed on render:  https://linear-regression-api-0sml.onrender.com
 ### Accessing the swagger UI
 -- To  access the swagger UI, use '/swagger' instead of '/docs'. https://linear-regression-api-0sml.onrender.com/swagger will lead you to the swagger UI where you can access the predict and other endpoints!
 
@@ -42,5 +41,7 @@ Our mobile app allows the user to predict recession possibility in any  african 
 
 5- Finally, click the predict navigation tab in the mobile app, it will will take you to the predict page where you can now input your values to predict recession risk!
 
+## Source Of Data
+Kaggle: https://www.kaggle.com/datasets/chirin/african-country-recession-dataset-2000-to-2017
 
 
