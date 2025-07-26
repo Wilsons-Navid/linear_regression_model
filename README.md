@@ -42,6 +42,8 @@ Our mobile app allows the user to predict recession possibility in any  african 
 5- Finally, click the predict navigation tab in the mobile app, it will will take you to the predict page where you can now input your values to predict recession risk!
 
 ## Source Of Data
-Kaggle: https://www.kaggle.com/datasets/chirin/african-country-recession-dataset-2000-to-2017
+Kaggle: https://www.kaggle.com/datasets/chirin/african-country-recession-dataset-2000-to-2017  
+Navigate to the link above to learn more about the dataset
+
 
 
