@@ -27,7 +27,7 @@ Our mobile app allows the user to predict recession possibility in any  african 
 ### Accessing the swagger UI
 -- To  access the swagger UI, use '/swagger' instead of '/docs'. https://linear-regression-api-0sml.onrender.com/swagger will lead you to the swagger UI where you can access the predict and other endpoints!
 
-## Demo link: 
+## Demo link: https://www.youtube.com/watch?v=srBSjgesi7g
 
 
 ## Running the Application
